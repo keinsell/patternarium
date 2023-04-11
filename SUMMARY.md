@@ -10,3 +10,4 @@
     * [Inbox Store](messaging/inbox/INBOX\_STORE.md)
     * [Queue-Based Load Leveling](messaging/inbox/QUEUE\_BASED\_LOAD\_LEVELING.md)
   * [Transactional outbox](messaging/transactional-outbox/README.md)
+* [Unit of Work](unit-of-work.md)

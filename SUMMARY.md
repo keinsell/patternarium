@@ -1,8 +1,24 @@
 # Table of contents
 
 * [README](README.md)
+
+## Design Patterns
+
+* [Behavioral Design Patterns](design-patterns/behavioral-design-patterns/README.md)
+  * [Retry Strategy](design-patterns/behavioral-design-patterns/retry\_strategy.md)
+  * [Handler](design-patterns/behavioral-design-patterns/handler.md)
+  * [Queue](design-patterns/behavioral-design-patterns/queue.md)
+  * [Unit of Work](design-patterns/behavioral-design-patterns/unit-of-work.md)
+* [Communication Design Patterns](design-patterns/communication-design-patterns/README.md)
+  * [Bus](design-patterns/communication-design-patterns/bus.md)
+
+## Architectural Patterns
+
+* [Store](architectural-patterns/store.md)
+
+***
+
 * [Data Transfer Object (DTO)](<README (1).md>)
-* [Retry Strategy](RETRY\_STRATEGY.md)
 * [Messaging Pattern](messaging/README.md)
   * [Inbox](messaging/inbox/README.md)
     * [Inbox](messaging/inbox/INBOX.md)
@@ -10,7 +26,6 @@
     * [Inbox Store](messaging/inbox/INBOX\_STORE.md)
     * [Queue-Based Load Leveling](messaging/inbox/QUEUE\_BASED\_LOAD\_LEVELING.md)
   * [Transactional outbox](messaging/transactional-outbox/README.md)
-* [Unit of Work](unit-of-work.md)
 
 ## CQRS
 
@@ -31,3 +46,4 @@
 ## Domain Driven Design
 
 * [Entity](domain-driven-design/entity.md)
+* [Page 1](domain-driven-design/page-1.md)

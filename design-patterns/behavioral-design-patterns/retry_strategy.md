@@ -1,3 +1,9 @@
+---
+description: >-
+  The Retry Strategy design pattern is a behavioral pattern that provides a
+  systematic approach for handling and retrying failed operations or requests.
+---
+
 # Retry Strategy
 
 Retry Strategy is a design pattern that addresses the issue of transient failures in distributed systems. It involves retrying failed operations automatically with a certain delay and a maximum number of attempts, in order to increase the likelihood of success.
@@ -82,5 +88,3 @@ class MyService {
   }
 }
 ```
-
-`#design-pattern`

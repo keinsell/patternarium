@@ -1,7 +1,8 @@
 ---
 description: >-
-  The Unit of Work is a design pattern used in software development to manage
-  transactions and database connections.
+  The Unit of Work design pattern is a behavioral pattern that tracks and
+  manages a group of related operations as a single transaction to ensure data
+  consistency and integrity.
 ---
 
 # Unit of Work
